@@ -1,2 +1,2 @@
 # p5-bug-squish
--[ ] to-do: fix the bug
+- [ ] to-do: fix the bug
